@@ -1,0 +1,43 @@
+https://www.youtube.com/watch?v=-Xh4zlHoARM&index=2&list=PL14AA2548E3C96B50&nohtml5=False
+
+http://api.openweathermap.org/data/2.5/weather?q=mirpur1&appid=b8418ad3fb7754846dba1bf3f15ad2b8
+ http://api.openweathermap.org/data/2.5/forecast?lat=23.80110445005726&lon=90.34653919955814&appid=b8418ad3fb7754846dba1bf3f15ad2b8
+
+
+
+http://android-er.blogspot.com/2015/10/android-query-current-weather-using.html
+https://home.openweathermap.org/users/sign_in
+http://www.survivingwithandroid.com/2013/05/build-weather-app-json-http-android.html
+http://openweathermap.org/forecast
+https://www.javacodegeeks.com/2014/02/android-weather-app-using-yahoo-weather-provider-and-autocompletetextview-part-1.html
+
+http://vclouds.deviantart.com/art/VClouds-Weather-Icons-179152045
+
+
+https://youtu.be/Kk2grN0Jvd4
+
+longitude: 90.34653919955814
+latitude: 23.80110445005726
+
+
+
+dj0yJmk9UzF3RFZoTXgzV01DJmQ9WVdrOVJ6ZEJhbXB0TXpJbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1hNQ--
+
+
+F7:4F:83:59:76:B7:8F:BA:9A:CE:4B:8D:DF:6D:F2:48:1E:7A:7F:87
+map api key
+AIzaSyCpiTwzjHmjf_OHniCPznA68RC8qu_z03U
+
+AIzaSyCmbD6DcYwgc6-wDazmXRMArLB5f3Ii_x4
+
+Thunderstorms
+Clear
+Partly Cloudy
+Cloudy
+
+compile 'com.google.android.gms:play-services-maps:7.8.0'
+    compile 'com.google.android.gms:play-services-location:7.8.0'
+    compile 'com.mcxiaoke.volley:library:1.0.19
+Sunny
+Showers
+https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22Thakurgoan%22)&format=json
